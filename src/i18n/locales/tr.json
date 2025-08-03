@@ -1,0 +1,57 @@
+{
+    "home": {
+        "greeting": {
+            "top": "Merhaba, bitki sever!",
+            "main": "İyi Öğleden Sonra! ⛅"
+        },
+        "search": {
+            "placeholder": "Bitki ara"
+        },
+        "section": {
+            "getStarted": "Başlayalım"
+        },
+        "loading": {
+            "text": "Veriler yükleniyor..."
+        },
+        "error": {
+            "text": "Bir sorun oluştu",
+            "retry": "Tekrar dene"
+        }
+    },
+    "premium": {
+        "titleFirst": "Ersin RNSampleProject",
+        "titleLast": " Premium",
+        "subtitle": "Tüm Özelliklere Erişim",
+        "features": {
+            "unlimited": {
+                "title": "Sınırsız",
+                "subtitle": "Bitki Tanıma"
+            },
+            "faster": {
+                "title": "Daha Hızlı",
+                "subtitle": "Bitkileri kolayca bul"
+            },
+            "detailed": {
+                "title": "Detaylı",
+                "subtitle": "Bitki bakımı"
+            }
+        },
+        "options": {
+            "freeTrial": {
+                "title": "Aylık",
+                "description": "Aylık $2.99, otomatik yenilenebilir"
+            },
+            "cancelAnytime": {
+                "title": "Yıllık",
+                "description": "İlk 3 gün ücretsiz, ardından yıllık $529,99"
+            }
+        },
+        "button": "3 gün ücretsiz dene",
+        "bottomText": "3 günlük ücretsiz deneme süresinden sonra, deneme süresi dolmadan iptal etmediğin sürece yıllık ₺274.99 ücretlendirileceksin. Yıllık Abonelik Otomatik Yenilenir",
+        "links": {
+            "terms": "Şartlar",
+            "privacy": "Gizlilik",
+            "restore": "Geri Yükle"
+        }
+    }
+}

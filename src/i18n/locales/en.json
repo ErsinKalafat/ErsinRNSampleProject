@@ -1,0 +1,57 @@
+{
+    "home": {
+        "greeting": {
+            "top": "Hi, Ersin",
+            "main": "Good Afternoon! ⛅"
+        },
+        "search": {
+            "placeholder": "Search for something"
+        },
+        "section": {
+            "getStarted": "Get Started"
+        },
+        "loading": {
+            "text": "Loading data..."
+        },
+        "error": {
+            "text": "Something went wrong",
+            "retry": "Try again"
+        }
+    },
+    "premium": {
+        "titleFirst": "Ersin RNSampleProject",
+        "titleLast": " Premium",
+        "subtitle": "Access All Features",
+        "features": {
+            "unlimited": {
+                "title": "Unlimited",
+                "subtitle": "Product Identify"
+            },
+            "faster": {
+                "title": "Faster",
+                "subtitle": "Process"
+            },
+            "detailed": {
+                "title": "Detailed",
+                "subtitle": "Product care"
+            }
+        },
+        "options": {
+            "freeTrial": {
+                "title": "1 Month",
+                "description": "$2.99/month, auto renewable"
+            },
+            "cancelAnytime": {
+                "title": "1 Year",
+                "description": "First 3 days free, then $529,99/year"
+            }
+        },
+        "button": "Try free for 3 days",
+        "bottomText": "After the 3-day free trial period you'll be charged ₺274.99 per year unless you cancel before the trial expires. Yearly Subscription is Auto-Renewable",
+        "links": {
+            "terms": "Terms",
+            "privacy": "Privacy",
+            "restore": "Restore"
+        }
+    }
+}
